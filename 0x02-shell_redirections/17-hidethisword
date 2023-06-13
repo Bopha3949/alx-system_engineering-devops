@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat /etc/passwd
+=======
+grep -v "bin" /etc/passwd
+>>>>>>> 294562b73c0ce7d3025b63d8c62670a8a6a27dab
